@@ -36,6 +36,7 @@ public class FirstSampleCode {
 	        assertEquals("Received!", value);
 
 	        driver.quit();
+	        System.out.println("sample code executed succesfully");
 	    }
 
 	}
